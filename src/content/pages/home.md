@@ -1,10 +1,11 @@
 ---
 hero_version: 1
 hero_title: "Repurpose your video, audio and text into social savvy videos "
-hero_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-  do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-  minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-  commodo consequat.
+hero_description: >-
+  We’re having some trouble connecting you to Netlify.
+
+
+  This error may be caused by an ad blocker or browser extension. You can try disabling blocking on this page or running in incognito
 hero_image: img/serverless-saas.jpg
 feature_version: 1
 feature_title: Our amazing features
